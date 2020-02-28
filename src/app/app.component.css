@@ -1,0 +1,8 @@
+nav a {
+	padding: 1em;
+	border: 1px solid gray;
+}
+nav a.active {
+	background-color: #9c1fa9;
+	color: white;
+}
